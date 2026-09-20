@@ -1,5 +1,7 @@
 💸 BudgetPulse
 
+[![Open BudgetPulse](https://budgetpulse.streamlit.app)]
+
 A cloud-connected personal expense tracking and budgeting application
 built with Python, Streamlit, Pandas, and Supabase.
 

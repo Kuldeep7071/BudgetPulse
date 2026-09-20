@@ -1,6 +1,6 @@
 💸 BudgetPulse
 
-[![Open BudgetPulse](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://budgetpulse.streamlit.app))
+[![💸 Open BudgetPulse](https://budgetpulse.streamlit.app)]
 
 
 A cloud-connected personal expense tracking and budgeting application
